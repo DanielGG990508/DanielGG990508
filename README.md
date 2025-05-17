@@ -11,6 +11,8 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+- 🔭 I’m currently working on Grupo Salinas
+
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-dgg080599@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:dgg080599@gmail.com)](dgg080599@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_-E4405F?style=flat-roundedrectangle&logo=linkedin&logoColor=white&link=https://www.instagram.com/asthi__/)](www.linkedin.com/in/daniel-garcía-garcía-4b8a1a264)
